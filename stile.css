@@ -1,0 +1,29 @@
+.box1{
+background-color: red;
+width:100px;
+height: 100px;
+position: absolute;
+z-index: 3;
+bottom: 350px;
+left: 450px;
+}
+
+.box2{
+background-color: blue;
+width:100px;
+height:100px;
+position: absolute;
+z-index: 4;
+bottom:300px;
+left: 500px;
+}
+
+.box3{
+background-color: green;
+width: 100px;
+height: 100px;
+position: absolute;
+z-index: 3;
+bottom: 250px;
+left: 550px;
+}
